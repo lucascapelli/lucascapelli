@@ -69,7 +69,15 @@ I build end-to-end systems with clean architecture, well-designed REST APIs, aut
 
 ## GitHub Stats 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascapelli&layout=compact&theme=tokyonight&hide_border=true" />
+  ![Lucas's GitHub stats](https://github-readme-stats-git-main-jrodc123.vercel.app/api?username=lucascapelli&show_icons=true&theme=radical&hide_border=true) <!-- Fork alternativo que tá up -->
+</p>
+
+<p align="center">
+  ![Top Languages](https://github-readme-stats-git-main-jrodc123.vercel.app/api/top-langs/?username=lucascapelli&layout=compact&theme=radical&hide_border=true)
+</p>
+
+<p align="center">
+  ![Streak Stats](https://streak-stats.demolab.com?user=lucascapelli&theme=dark&hide_border=true) <!-- Alternativa pro streak -->
 </p>
 
 ---
