@@ -44,9 +44,9 @@ I build end-to-end systems with clean architecture, well-designed REST APIs, aut
 ### Databases 📦
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45" />
 </p>
-- MySQL • MariaDB • SQLite
+- MySQL • MariaDB
 
 ### Tools & Others 🛠
 <p>
