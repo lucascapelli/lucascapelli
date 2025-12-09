@@ -63,7 +63,7 @@ I build end-to-end systems with clean architecture, well-designed REST APIs, aut
 
 ---
 ## GitHub Stats 📊
-<img src="https://img.shields.io/github/commit-activity/y/lucascapelli/lucascapelli?style=flat-square" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lucascapelli&theme=transparent&hide_border=true" />
 
 
 
