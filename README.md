@@ -12,7 +12,7 @@ Full-stack developer, educator, and passionate about clean code and freedom.
 I currently work mainly with:
 - **Django + Django REST Framework** → backend & APIs (my main stack)
 - **Flask** → lightweight APIs and microservices
-- **React + JavaScript/TypeScript** → modern and responsive frontend
+- **React + JavaScript** → modern and responsive frontend
 - **MySQL / MariaDB** → data persistence
 - **Linux** → my daily development and deployment environment
 
@@ -68,7 +68,7 @@ I build end-to-end systems with clean architecture, well-designed REST APIs, aut
 - Clean Code & Software Architecture
 
 ---
-## Contribution Snake (Dark Mode)
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -80,7 +80,7 @@ I build end-to-end systems with clean architecture, well-designed REST APIs, aut
 Instagram (dev): **@lucas.fullstack**  
 LinkedIn: [linkedin.com/in/lucas-alcantara-mina-capelli-63a5b420b](https://www.linkedin.com/in/lucas-alcantara-mina-capelli-63a5b420b)  
 Email: alcantaraminacapellilucas@gmail.com  
-GitHub: [github.com/lucas-capelli](https://github.com/lucas-capelli)
+GitHub: [github.com/lucascapelli](https://github.com/lucascapelli)
 
 ---
 ## Quote I live by
