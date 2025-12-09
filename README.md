@@ -62,19 +62,15 @@ I build end-to-end systems with clean architecture, well-designed REST APIs, aut
 - Clean Code & Software Architecture
 
 ---
-## Contribution Snake 🐍
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ## GitHub Stats 📊
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucascapelli/github-readme-stats/output/generated/overview.svg?hide_border=true" alt="Lucas Capelli GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucascapelli&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucascapelli/github-readme-stats/output/generated/wakatime.svg?hide_border=true" alt="Lucas Capelli WakaTime" /> <!-- Opcional: stats de tempo de código -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascapelli&layout=compact&hide_border=true&theme=transparent" />
 </p>
+
 
 ---
 ## Find Me 📧
