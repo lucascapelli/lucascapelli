@@ -71,7 +71,9 @@ I focus on building end-to-end solutions with clean architecture, well-structure
 ---
 
 ## GitHub Stats 📊
-![GitHub Contributions](https://ghchart.rshah.org/lucascapelli)
+<p align="center">
+  <img src="https://ghchart.rshah.org/lucascapelli" alt="GitHub Contributions" />
+</p>
 
 ---
 
