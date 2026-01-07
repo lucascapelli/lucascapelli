@@ -24,8 +24,10 @@ I focus on building end-to-end solutions with clean architecture, well-structure
 
 ### Backend 🐍
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) • ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) • ![Django REST Framework](https://img.shields.io/badge/DRF-000000?style=for-the-badge&logo=django&logoColor=white)  
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) (microservices / lightweight APIs)  
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+- ![Django REST Framework](https://img.shields.io/badge/DRF-000000?style=for-the-badge&logo=django&logoColor=white)  
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 - Python • Django • Django REST Framework  
