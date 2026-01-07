@@ -23,7 +23,7 @@ I focus on building end-to-end solutions with clean architecture, well-structure
 ## Tech Stack & Skills 💼
 
 ### Backend 🐍
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascapelli&theme=transparent"/>
+![Total Commits](https://img.shields.io/github/commit-activity/w/lucascapelli?style=for-the-badge&label=Commits&color=4c1)
 
 
 - Python • Django • Django REST Framework  
