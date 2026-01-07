@@ -72,7 +72,7 @@ I focus on building end-to-end solutions with clean architecture, well-structure
 
 ## GitHub Stats 📊
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascapelli&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascapelli&theme=transparent"/>
 </p>
 
 ---
