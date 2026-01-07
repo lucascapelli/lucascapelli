@@ -71,11 +71,11 @@ I focus on building end-to-end solutions with clean architecture, well-structure
 ---
 
 ## GitHub Stats 📊
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucascapelli&show_icons=true&theme=transparent&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascapelli&theme=transparent"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascapelli&layout=compact&theme=transparent"/>
-</p>
+<!-- Total de commits e repositórios -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascapelli&show_icons=true&theme=radical)
+
+<!-- Top linguagens -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascapelli&layout=compact&theme=radical)
 
 ---
 
