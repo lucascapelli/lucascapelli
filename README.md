@@ -23,12 +23,8 @@ I focus on building end-to-end solutions with clean architecture, well-structure
 ## Tech Stack & Skills 💼
 
 ### Backend 🐍
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" style="filter: brightness(0) invert(1);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" style="filter: brightness(0) invert(1);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascapelli&theme=transparent"/>
+
 
 - Python • Django • Django REST Framework  
 - Flask (microservices / lightweight APIs)  
