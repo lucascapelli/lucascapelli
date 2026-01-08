@@ -72,7 +72,7 @@ I focus on building end-to-end solutions with clean architecture, well-structure
 ---
 
 ## GitHub Stats 📊
-[![GitHub Commits](https://github.com/lucascapelli/github-stats/raw/main/github-stats.png)](https://github.com/lucascapelli)
+![Commits](https://img.shields.io/badge/Commits-143-blue?style=for-the-badge&logo=github)
 
 
 ---
