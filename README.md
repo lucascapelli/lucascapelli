@@ -72,8 +72,10 @@ I focus on building end-to-end solutions with clean architecture, well-structure
 ---
 
 ## GitHub Stats 📊
-![GitHub Live](https://github.com/lucascapelli/github-stats.git)
+<p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascapelli&theme=transparent"/>
 
+</p>
 ## 🛡️ Estatísticas
 
 ![Commits](https://img.shields.io/badge/Commits-146-blue?style=for-the-badge&logo=github)
