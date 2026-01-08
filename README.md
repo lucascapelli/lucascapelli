@@ -72,17 +72,8 @@ I focus on building end-to-end solutions with clean architecture, well-structure
 ---
 
 ## GitHub Stats 📊
-<p align="center">
-  <a href="https://github.com/lucascapelli?tab=followers">
-    <img src="https://img.shields.io/github/followers/lucascapelli?style=social" alt="Followers"/>
-  </a>
-  <a href="https://github.com/lucascapelli?tab=repositories">
-    <img src="https://img.shields.io/github/repos/lucascapelli?style=social" alt="Repos"/>
-  </a>
-  <a href="https://github.com/lucascapelli">
-    <img src="https://img.shields.io/github/commit-activity/m/lucascapelli?style=flat-square" alt="Commits"/>
-  </a>
-</p>
+![GitHub Stats](https://github.com/lucascapelli/github-stats/raw/main/github-stats.png)
+
 
 
 ---
