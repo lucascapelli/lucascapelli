@@ -73,7 +73,7 @@ I focus on building end-to-end solutions with clean architecture, well-structure
 
 ## GitHub Stats 📊
 https://github.com/lucascapelli/github-stats/raw/main/github-true-commits.png
-
+![GitHub Line Chart](https://github.com/lucascapelli/github-stats/raw/main/github-line-chart.png)
 
 ## 🛡️ Estatísticas
 
